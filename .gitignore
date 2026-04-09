@@ -1,1 +1,4 @@
 simpsons
+*.pth
+my_dataset
+predictions
